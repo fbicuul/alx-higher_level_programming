@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
  */
 
 #include <Python.h>
